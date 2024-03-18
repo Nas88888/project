@@ -1,0 +1,42 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 20px;
+  }
+  .password-check {
+    display: block;
+    margin: 0 auto;
+    padding: 30px 30px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  img {
+    max-width: 300px;
+    height:auto;
+    border:white 10px;
+      display:flex;
+      justify-content: center;
+  }
+  
+  nav{display:flex;
+  flex-direction:column;
+  }
+  
+  a{text-align:center;}
+  
+  
+  
+  h1 {
+  font-family: "SF Distant Galaxy";
+      color:White;
+      background:orange;
+      text-align:center;
+      border:solid white;
+  }
+  
